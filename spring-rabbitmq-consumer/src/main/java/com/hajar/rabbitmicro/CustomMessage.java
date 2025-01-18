@@ -1,4 +1,4 @@
-package com.oussama.rabbitmicro;
+package com.hajar.rabbitmicro;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

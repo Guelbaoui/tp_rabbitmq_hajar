@@ -1,4 +1,4 @@
-package com.oussama.rabbitmicro;
+package com.hajar.rabbitmicro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

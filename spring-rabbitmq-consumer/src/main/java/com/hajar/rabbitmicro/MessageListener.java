@@ -1,4 +1,4 @@
-package com.oussama.rabbitmicro;
+package com.hajar.rabbitmicro;
 
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;

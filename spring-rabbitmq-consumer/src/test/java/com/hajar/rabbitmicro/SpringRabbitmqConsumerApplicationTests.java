@@ -1,10 +1,10 @@
-package com.oussama.rabbitmicro;
+package com.hajar.rabbitmicro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringRabbitmqProducerApplicationTests {
+class SpringRabbitmqConsumerApplicationTests {
 
 	@Test
 	void contextLoads() {
