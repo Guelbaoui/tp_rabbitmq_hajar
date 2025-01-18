@@ -1,0 +1,1 @@
+# tp_rabbitmq_hajar
